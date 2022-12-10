@@ -12,7 +12,6 @@
   - [Obtaining SDK packages from Marketplace](#obtaining-sdk-packages-from-marketplace)
   - [Previous Versions](#previous-versions)
   - [Latest SDK Notifications](#latest-sdk-notifications)
-  - [Get Started](#get-started)
   - [Installation](#installation)
   - [Setup (IN-PROGRESS) ](#setup-in-progress)
 - [Set the Package ID.](#set-the-package-id)
@@ -43,14 +42,6 @@ If you are looking for the previous versions, please visit https://github.com/zo
 ## Latest SDK Notifications
 1. Please note that our Ionic SDK only support Ionic Angular.
 
-
-## Get Started
-1. npm install
-2. Ionic Cordova plugin add ../../Zoom/
-3. Ionic Cordova platform add android
-4. Ionic Cordova platform add iOS
-5. Ionic cordova run android
-6. Ionic cordova run ios
 
 ## Installation
 
